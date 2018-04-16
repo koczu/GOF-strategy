@@ -1,1 +1,1 @@
-# sternik-kaczki
+# GOF-strategy
